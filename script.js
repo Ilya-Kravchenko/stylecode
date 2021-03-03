@@ -1,6 +1,8 @@
 function pow(x, n) {
     let result = 1;
+   
 
+ 
     for (let i =0; i < n; i++) {
         
         result *=x;
@@ -28,8 +30,6 @@ function pow(x, n) {
     это группа JavaScript-разработчиков, теоретиков и авторов движков JavaScript,
     которые вместе с сообществом занимаються поддержкой и развитием языка JavaScript.
     ;
-
-
 
 if (
   id === 123 &&
