@@ -14,7 +14,7 @@ function pow(x, n) {
     let x = prompt ('x?', '');
     let n = prompt ('n?', '');
 
-    if (n < 0) {
+    if (n < 0) {. 
      alert(`Power ${n} is not supported,
      please enter a non-negative integer number`);
     } else {
